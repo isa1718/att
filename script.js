@@ -1,4 +1,4 @@
-function initTabNav {
+function initTabNav() {
     const tabMenu = document.querySelectorAll('.js-tabmenu li');
     const tabContent = document.querySelectorAll('.js-tabcontent selection');
     if(tabMenu.length && tabContent.length) {
