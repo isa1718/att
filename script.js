@@ -1,7 +1,7 @@
-function initTabNav{
+function initTabNav {
     const tabMenu = document.querySelectorAll('.js-tabmenu li');
     const tabContent = document.querySelectorAll('.js-tabcontent selection');
-    if(tabMenu.length && tabContent.length){
+    if(tabMenu.length && tabContent.length) {
         tabContent[0].classList.add('ativo');
         function activeTab(index) {
             tabContent.forEach((section) => {
@@ -10,11 +10,11 @@ function initTabNav{
             tabContent[index].classList.add('ativo');
         }
         tabMenu.forEach((itemMenu, index) => {
-            itemMenu.addEventListener('click') => {
+            itemMenu.addEventListener('click' () => {
                 activeTab(index);
-            })
+            });
 
-        }
+        });
     }
 }
 initTabNav();
