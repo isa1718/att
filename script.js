@@ -17,3 +17,4 @@ function initTabNav{
         }
     }
 }
+initTabNav();
