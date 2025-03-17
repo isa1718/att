@@ -13,7 +13,7 @@ body, h1, h2, ul, li, p, dd, dt, dl {
   }
   
   body {
-    background: #faf6ed;
+    background: #93db7d;
     color: #222;
     -webkit-font-smoothing: antialiased;
     display: grid;
@@ -105,12 +105,12 @@ body, h1, h2, ul, li, p, dd, dt, dl {
   
   .advogada-lista::-webkit-scrollbar-thumb {
     background: #006400;
-    border-left: 4px solid #faf6ed;
-    border-right: 4px solid #faf6ed;
+    border-left: 4px solid #93db7d;
+    border-right: 4px solid #93db7d;
   }
   
   .advogada-lista::-webkit-scrollbar-track {
-    background: #faf6ed;
+    background: #93db7d;
   }
   
   .advogada-descricao {
