@@ -11,9 +11,6 @@ function initTabNav() {
         });
         tabContent[index].classList.add('ativo');
       }
-  
-    
-      };
     }
   }
   initTabNav();
