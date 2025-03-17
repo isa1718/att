@@ -159,7 +159,6 @@ body, h1, h2, ul, li, p, dd, dt, dl {
   .dados li {
     margin-bottom: 1rem;
     font-family: Helvetica, Arial;
-    display: grid;
   }
   
   .dados li::before {
