@@ -9,12 +9,6 @@ function initTabNav() {
             });
             tabContent[index].classList.add('ativo');
         }
-        tabMenu.forEach((itemMenu, index) => {
-            itemMenu.addEventListener('click', () => {
-              activeTab(index);
-            });
-
-        });
     }
 }
 initTabNav();
