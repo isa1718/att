@@ -140,7 +140,7 @@ body, h1, h2, ul, li, p, dd, dt, dl {
     width: 20px;
     height: 10px;
     margin-right: 10px;
-    background: #FB5;
+    background: #006400;
   }
   
   .faq-lista dd {
@@ -168,13 +168,13 @@ body, h1, h2, ul, li, p, dd, dt, dl {
     width: 20px;
     height: 10px;
     margin-right: 10px;
-    background: #FB5;
+    background: #006400;
   }
   
   .copy {
     grid-column: 3/5;
     margin-bottom: 2rem;
-    background: #FB5;
+    background: #006400;
   }
   
   .copy p {
