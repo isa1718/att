@@ -169,6 +169,7 @@ body, h1, h2, ul, li, p, dd, dt, dl {
     height: 10px;
     margin-right: 10px;
     background: #006400;
+    grid-template-rows: 2/3;
   }
   
   .copy {
